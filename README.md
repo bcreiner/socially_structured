@@ -1,4 +1,4 @@
-socially_strucutred
+socially_structured
 ===================
 
 Agent-based spatio-temporal model of dengue virus transmission used within the following paper:
